@@ -14,7 +14,7 @@
 
 ## Introduction
 
-Welcome to the dazzling world of GSMA's SGP.21 V3.1 & SGP.22 V3.1 implementation for remote eSIM provisioning using the swanky consumer architecture! This project is not your run-of-the-mill tech endeavor; it's here to serve up a robust and flexible solution for taming those eSIM profiles in consumer devices, all thanks to the Subscription Manager Data Preparation (SM-DP+) protocols.
+Welcome to the dazzling world of GSMA's [SGP.21 V3.1](https://www.gsma.com/esim/resources/sgp-21-v3-1/) & [SGP.22 V3.1](https://www.gsma.com/esim/resources/sgp-22-v3-1/) implementation for remote eSIM provisioning using the swanky consumer architecture! This project is not your run-of-the-mill tech endeavor; it's here to serve up a robust and flexible solution for taming those eSIM profiles in consumer devices, all thanks to the Subscription Manager Data Preparation (SM-DP+) protocols.
 
 Whether you're a mobile network operator navigating the digital seas or a device manufacturer steering through the tech wilderness, our implementation is your trusty map to an easy-to-integrate and scalable approach for remote eSIM provisioning. It's like the GPS for your eSIM journey, minus the annoying recalculating route messages.
 
