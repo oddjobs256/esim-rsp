@@ -69,7 +69,7 @@ This project is licensed under the MIT License
 ### Acknowledgments
 - Special thanks to the one and only Paul B who introduced me to this arena.
 - Inspired by the growing need for seamless eSIM provisioning in consumer devices.
-- Built with passion and dedication to improving the digital experience for users worldwide as well as my self.
+- Built with passion and dedication to improving my self (sounds selfish but...).
 
 Feel free to explore, experiment, and contribute to this exciting journey of transforming eSIM provisioning for consumer devices!
 
